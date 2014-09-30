@@ -1,5 +1,5 @@
-cookie
-=========
+securecookie
+==============
 
 Implement cookie for go, inspired by tornado.
 It will help you generate cooke that is secured.
