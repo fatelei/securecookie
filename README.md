@@ -4,6 +4,20 @@ securecookie
 Implement cookie for go, inspired by tornado.
 It will help you generate cooke that is secured.
 
+Install
+==============
++ Intstall through go
+
+```
+go get github.com/fatelei/securecookie
+```
++ Install by manual
+
+```
+> git clone git@github.com:fatelei/securecookie.git
+> go install securecookie 
+```
+
 
 Usage
 =========
